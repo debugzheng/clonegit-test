@@ -10,4 +10,6 @@ git checkout dev
 
 -- git checkout -b dev
 
-DEV 
+DEV
+
+AND simple
