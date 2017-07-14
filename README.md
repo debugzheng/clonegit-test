@@ -5,3 +5,5 @@ git brank dev
 git checkout dev
 
 -- git checkout -b dev
+
+& simple
